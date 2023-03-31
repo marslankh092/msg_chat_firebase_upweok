@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956425570382",
+    "project_id": "pakgname",
+    "storage_bucket": "pakgname.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956425570382:android:eab495b500b40b0c0f1b1f",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956425570382-rdikpdam05jbehsmbqrs8d9tdcttparf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVB_GRu4l2PbfVUF1ge5YY_JOKxDiOVGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956425570382-rdikpdam05jbehsmbqrs8d9tdcttparf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
